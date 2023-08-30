@@ -1,0 +1,19 @@
+{
+    "name": "arkady/flw-test",
+    "description": "Library for openexchangerates.org",
+    "type": "library",
+    "license": "LGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Arkady\\FlwTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arkadiy Abramov",
+            "email": "arcady117@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
